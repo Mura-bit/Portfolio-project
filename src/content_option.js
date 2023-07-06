@@ -17,7 +17,7 @@ const introdata = {
         first: "I love coding",
         second: "I code cool websites",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Learn, learn, learn and than start coding!",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -44,7 +44,7 @@ const skills = [
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have a Figma cool projects that I have done with curious things.",
     },
 ];
 
